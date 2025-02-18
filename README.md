@@ -12,7 +12,8 @@
 
 ## Como rodar
 
-### Clone o repositório
+- Clone o repositório
+
 ### Configure o banco de dados (MySQL via XAMPP)
 - Inicie o XAMPP e ative o Apache e o MySql
 - Acesse phpMyAdmin no navegador: http://localhost/phpmyadmin/
