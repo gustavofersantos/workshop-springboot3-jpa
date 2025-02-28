@@ -30,3 +30,6 @@ spring.jpa.hibernate.ddl-auto=update
 - Acesse a API via Postman: http://localhost:8080/
 - Acesse a API via navegador: http://localhost:8080/h2-console
 
+
+## Desenvolvido por Gustavo F. Santos durante curso de Java Completo do professor Nelio Alves.
+
